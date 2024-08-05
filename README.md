@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
 ## 🛠️ Technologies & Tools
 
 - **Languages:** [C++, Python.]
-- **Tools & Platforms:** [GitHub, Docker,cmake, bezel]
+- **Tools & Platforms:** [GitHub, Docker,cmake, bazel]
 
 ## 🌱 Current Focus
 
