@@ -19,7 +19,7 @@ Feel free to explore my repositories and let me know if you have any questions o
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/omkarshirdhone-352893214)
+- [LinkedIn](https://www.linkedin.com/in/omkar-shirdhone-352893214)
 
 Thanks for stopping by! 🚀
 
